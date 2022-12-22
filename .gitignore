@@ -1,3 +1,5 @@
 /caltech101
 /__pycache__
 /lightning_logs
+/logs
+/plot
